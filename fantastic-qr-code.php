@@ -5,7 +5,7 @@
  * Version: 1.0.0
  * Author: Faridul Islam
  * Author URI: http://bddevfarid.com
- * Plugin URI: http://google.com
+ * Plugin URI: https://github.com/bddevfarid/fantastic-qr-code
  */
 
 class Fantastic_Qr_Code {
