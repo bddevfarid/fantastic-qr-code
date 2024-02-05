@@ -1,1 +1,0 @@
-Fantastic QR Code Plugin
