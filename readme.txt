@@ -1,7 +1,7 @@
 === Fantastic QR Code ===
 Contributors: mohammaadfarid
 Donate link: http://bddevfarid.com/
-Tags: qr code, wp qr code, bddevfarid
+Tags: qr code, wp qr code, bddevfarid, test
 Stable tag: 1.0.0
 Requires at least: 5.0.0
 Requires PHP: 7.4.0
